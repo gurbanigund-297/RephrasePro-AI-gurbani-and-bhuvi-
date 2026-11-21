@@ -1,0 +1,6 @@
+{
+  "name": "RephrasePro AI",
+  "description": "AI-powered writing studio that rewrites text while preserving original meaning across Professional, Casual, Academic, Creative, and Friendly styles with tone, length, clarity, grammar, and wording improvements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
